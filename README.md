@@ -20,9 +20,9 @@ Split the line using .split
 
 ## PROGRAM:
 ```
-Program for getting the word count from the contents of a file using command line arguments
-Developed by: KARTHIKEYAN M
-RegisterNumber: 23005191
+#Program for getting the word count from the contents of a file using command line arguments
+#Developed by: KARTHIKEYAN M
+#RegisterNumber: 23005191
 import sys
 fp=open(sys.argv[1],'r')
 count=0
