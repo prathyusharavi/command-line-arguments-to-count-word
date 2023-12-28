@@ -46,6 +46,7 @@ print("word count in file = ",count)
 TEXTFILE:
 
   ![image](https://github.com/prathyusharavi/command-line-arguments-to-count-word/assets/147474424/a9af723c-dbf5-4284-9418-4af624dceba4)
+  
 PYTHONFILE:
 
   ![image](https://github.com/prathyusharavi/command-line-arguments-to-count-word/assets/147474424/21225931-d9ec-4f2a-af4a-864484e1bf00)
