@@ -44,10 +44,12 @@ print("word count in file = ",count)
 
 ### OUTPUT:
 TEXTFILE:
-![image](https://github.com/prathyusharavi/command-line-arguments-to-count-word/assets/147474424/a9af723c-dbf5-4284-9418-4af624dceba4)
+
+  ![image](https://github.com/prathyusharavi/command-line-arguments-to-count-word/assets/147474424/a9af723c-dbf5-4284-9418-4af624dceba4)
 PYTHONFILE:
-![image](https://github.com/prathyusharavi/command-line-arguments-to-count-word/assets/147474424/21225931-d9ec-4f2a-af4a-864484e1bf00)
-![image](https://github.com/prathyusharavi/command-line-arguments-to-count-word/assets/147474424/76c8c0b2-a574-40a8-b2ea-2e6b0fe0fdaf)
+
+  ![image](https://github.com/prathyusharavi/command-line-arguments-to-count-word/assets/147474424/21225931-d9ec-4f2a-af4a-864484e1bf00)
+  ![image](https://github.com/prathyusharavi/command-line-arguments-to-count-word/assets/147474424/76c8c0b2-a574-40a8-b2ea-2e6b0fe0fdaf)
 
 
 ## RESULT:
